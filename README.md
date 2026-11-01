@@ -51,8 +51,8 @@ Berikut merupakan organisasi yang telah dimasukkan ke dalam direktori FTI Relati
 
 Project ini dikembangkan menggunakan teknologi berikut:
 
-* **HTML5** – Membangun struktur halaman website.
-* **CSS3** – Mengatur tampilan, layout, dan desain antarmuka.
+* **HTML** – Membangun struktur halaman website.
+* **CSS** – Mengatur tampilan, layout, dan desain antarmuka.
 * **JavaScript** – Mengimplementasikan interaksi dan fungsionalitas website.
 * **Git & GitHub** – Mengelola source code dan version control.
 * **GitHub Pages** – Menghosting website agar dapat diakses secara online.
@@ -65,10 +65,10 @@ Deployment dilakukan melalui repository GitHub sehingga website dapat diakses se
 
 ## Project Information
 
-**Project Name:** FTI Relations
-**Organization:** BEM KM Fakultas Teknologi Informasi Universitas Andalas
-**Department:** Dinas Eksternal
-**Program:** Fokus Satu Inovasi (FOSI)
+- **Project Name:** FTI Relations
+- **Organization:** BEM KM Fakultas Teknologi Informasi Universitas Andalas
+- **Department:** Dinas Eksternal
+- **Program:** Fokus Satu Inovasi (FOSI)
 
 ---
 
