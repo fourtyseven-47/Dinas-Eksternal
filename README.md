@@ -2,7 +2,7 @@
 
 ### Connecting Through External Relations
 
-FTI Relations merupakan sebuah website yang dikembangkan sebagai project FOSI (Fokus Satu Inovasi) Dinas Eksternal BEM KM Fakultas Teknologi Informasi Universitas Andalas.
+FTI Relations merupakan sebuah website yang dikembangkan sebagai project FOSI (FTI Open Source Initiative) Dinas Eksternal BEM KM Fakultas Teknologi Informasi Universitas Andalas.
 
 Website ini bertujuan untuk menjadi media informasi dan dokumentasi hubungan eksternal antara BEM KM FTI UNAND dengan berbagai organisasi mahasiswa dari universitas lain.
 
